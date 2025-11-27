@@ -4,7 +4,7 @@
 
 * Quick Start
 
-** flash new firmware
+** flash new firmware 
 
 1. [[https://github.com/sky-bro/zmk-config/fork][fork]] this repo
 2. (optional) update keymap and config file
